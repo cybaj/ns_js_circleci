@@ -1,5 +1,5 @@
 {
 	"circleci": {
-		"httpsRepositoryURL": "https://github.com/cybaj/ns_audio_circleci"
+		"httpsRepositoryURL": "https://github.com/cybaj/ns_js_circleci"
 	}
 }

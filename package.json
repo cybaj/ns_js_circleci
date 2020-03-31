@@ -9,8 +9,8 @@
     }
   },
   "description": "NativeScript Application",
-  "license": "SEE LICENSE IN <your-license-filename>",
-  "repository": "<fill-your-repository-here>",
+  "license": "LICENSE",
+  "repository": "https://github.com/cybaj/ns_js_circleci",
   "dependencies": {
     "@nativescript/theme": "~2.3.3",
     "nativescript-remote-builds": "^1.1.0",
